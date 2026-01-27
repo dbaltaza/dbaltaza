@@ -50,4 +50,3 @@ Strong interest in AI, low-level systems, and efficient architectures.
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dbaltaza.dbaltaza&right_color=limegreen"  />
 </div>
-###
