@@ -1,10 +1,6 @@
 #  About Me:
 Student at 42 Lisboa, learning software development.<br>Developer focused on FiveM, game systems, and interactive tech.<br>Experience building and managing RP servers, now focused on creating high-quality scripts.<br>Interested in AI, low-level systems, and performance-driven solutions.<br>Always learning, always building.
 
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/xxdVFDF3um) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dbalt4zar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdinis222@gmail.com) 
-
 <div align="center"
 
 # 💻 Tech Stack:
