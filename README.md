@@ -16,5 +16,3 @@ Student at 42 Lisboa, learning software development.<br>Developer focused on Fiv
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dbaltaza&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
