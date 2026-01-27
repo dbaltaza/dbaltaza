@@ -1,5 +1,5 @@
-# 💫 About Me:
-Student at 42 Lisboa, learning software development.<br>Developer focused on FiveM (QB-Core / ESX / Qbox), game systems, and interactive tech.<br>Experience building and managing RP servers, now focused on creating high-quality scripts.<br>Interested in AI, low-level systems, and performance-driven solutions.<br>Always learning, always building.
+#  About Me:
+Student at 42 Lisboa, learning software development.<br>Developer focused on FiveM, game systems, and interactive tech.<br>Experience building and managing RP servers, now focused on creating high-quality scripts.<br>Interested in AI, low-level systems, and performance-driven solutions.<br>Always learning, always building.
 
 
 ## 🌐 Socials:
