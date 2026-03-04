@@ -2,7 +2,7 @@
 
 Student at 42 Lisboa focused on software development and scalable systems.
 
-Strong knowledge of **Lua, Python, and C**, with experience building efficient backend systems and performance-oriented solutions.
+Experienced with **Lua, Python, and C**, building efficient backend systems and performance-oriented software.
 
 Currently working with **AI technologies**, including **AI agents, automation workflows, and intelligent systems**, with a strong interest in low-level programming and high-performance architectures.
 
