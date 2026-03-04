@@ -1,10 +1,12 @@
 # About Me
 
-Student at 42 Lisboa, focused on software development.
-Developer with a strong background in FiveM, game systems, and interactive technologies.
+Student at 42 Lisboa, focused on software engineering and the development of efficient, scalable systems.
 
-I’ve built and managed multiple RP servers and now focus on creating high-quality, performance-oriented scripts.
-Strong interest in AI, low-level systems, and efficient architectures.
+Developer with strong practical experience in Lua, Python, and C, working across scripting, system-level programming, and backend logic. Comfortable designing modular architectures, optimizing performance, and implementing robust software solutions.
+
+Extensive interest and hands-on work with artificial intelligence, particularly in the design and development of AI agents, automation systems, and AI-driven workflows. Experienced in integrating AI into practical systems to automate processes, analyze data, and build intelligent tools.
+
+Currently focused on high-performance software, AI-powered systems, and efficient architectures, with particular interest in low-level computing, scalable infrastructures, and advanced AI applications. My work prioritizes reliability, clean architecture, and solutions designed for real-world performance and maintainability.
 
 ###
 
