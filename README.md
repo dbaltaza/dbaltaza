@@ -1,12 +1,10 @@
 # About Me
 
-Student at 42 Lisboa, focused on software engineering and the development of efficient, scalable systems.
+Student at 42 Lisboa focused on software development and scalable systems.
 
-Developer with strong practical experience in Lua, Python, and C, working across scripting, system-level programming, and backend logic. Comfortable designing modular architectures, optimizing performance, and implementing robust software solutions.
+Strong knowledge of **Lua, Python, and C**, with experience building efficient backend systems and performance-oriented solutions.
 
-Extensive interest and hands-on work with artificial intelligence, particularly in the design and development of AI agents, automation systems, and AI-driven workflows. Experienced in integrating AI into practical systems to automate processes, analyze data, and build intelligent tools.
-
-Currently focused on high-performance software, AI-powered systems, and efficient architectures, with particular interest in low-level computing, scalable infrastructures, and advanced AI applications. My work prioritizes reliability, clean architecture, and solutions designed for real-world performance and maintainability.
+Currently working with **AI technologies**, including **AI agents, automation workflows, and intelligent systems**, with a strong interest in low-level programming and high-performance architectures.
 
 ###
 
